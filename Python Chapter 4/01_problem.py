@@ -1,0 +1,18 @@
+fruit = []
+f1 = input("Enter frit name : ")
+fruit .append(f1)
+f2 = input("Enter Fruit Name : ")
+fruit .append(f2)
+f3 = input("Enter frit name : ")
+fruit .append(f3)
+f4 = input("Enter frit name : ")
+fruit .append(f4)
+f5 = input("Enter frit name : ")
+fruit .append(f5)
+f6 = input("Enter frit name : ")
+fruit .append(f6)
+f7 = input("Enter frit name : ")
+fruit .append(f7)
+f18= input("Enter frit name : ")
+fruit .append(f8)
+
